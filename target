@@ -1,0 +1,65 @@
+Realizati un proiect care sa cuprinda urmatoarele : 
+
+4 pagini html
+
+Paginile nu trebuie sa contina numere, sau litere mari! 
+
+- contact.html
+- register.html
+- login.html
+- blog.html
+
+Iar pagina root : index.html
+
+
+
+Pagina index sa contina : navigatia sus in pagina catre cele 4 fisiere, jos o linie orizontala
+Jos in h1,  o sectiune, o bara laterala, si un footer
+
+Pagina contact sa contina tot ca la index numai ca adaugati un formular de contact cu urmatoarele inputuri
+
+1. Input pentru text 
+2. Input pentru email
+3. Input pentru mesaje
+4. Input pentru butonul de trimitere submit
+
+iar jos un footer cu copyright
+
+Pagina register
+
+Pagina de inregistrare trebuie sa contina un formular de inregistrare cu action si methode post,
+Pagina trebuie sa aiba 7 inputuri cu urmatoarele
+
+1. Input pentru utilizator cu type text
+2. Input pentru parola cu type password
+3. Input pentru email cu type email
+4. Input pentru cofirmare parola cu type password
+5. Input pentru optiuni de tip checkbox pentru a alege sexul utilzatorului dintre Masculin si Feminin
+6. Input pentru upload poza 
+7. Input pentru submit 
+
+Pagina de login
+
+Pagina de login trebuie sa aiba urmatoarele :
+
+1. Input pentru login pe mail
+2. Input pentru login pe baza parolei
+
+
+Pagina de blog
+
+Pagina de blog trebuie sa fie un mic blog, totul despre dvs, orice doriti voi, trebuie sa contina un tabel cu urmatoarele: 
+
+Luni, Marti, MIercuri,Joi,Vineri,Sambata,Duminica,  zilele saptamani, la fiecare zi in parte adaugati ce faceti, sau ce vreti voi
+
+
+Note : Pentru a obtine punctaj maxim ( 2 p din oficiu ) trebuie sa faceti legatura  paginilor intre ele,  dus si intors,
+
+Folderul trebuie sa fie urmatorul : 
+
+Folder principal 
+                        - index.html
+folder assets
+              in acest folder mai faceti un folder cu nume de img in care o sa puneti imaginile
+folder pages
+             in acest folder puneti paginile
